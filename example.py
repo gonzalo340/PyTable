@@ -9,7 +9,7 @@ a.addColumn("PRECIO", 10)
 # Primer fila
 a.addRow(["1256", "Televisor LED", "USD", "800"])
 # Segunda fila
-a.addRow(["1256", "Heladera", "USD", "950"])
+a.addRow(["1257", "Heladera", "USD", "950"])
 # Tercera fila
-a.addRow(["1256", "Computadora", "USD", "450"])
+a.addRow(["1258", "Computadora", "USD", "450"])
 a.make()
